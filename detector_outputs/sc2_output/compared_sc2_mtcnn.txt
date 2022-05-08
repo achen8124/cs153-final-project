@@ -1,0 +1,117 @@
+Frame 1-4: multiple faces not detected
+Frame 8-8: multiple faces not detected
+Frame 9-253: multiple faces not detected
+Frame 255-255: face not detected
+Frame 279-281: multiple faces falsely detected
+Frame 283-283: multiple faces falsely detected
+Frame 290-290: multiple faces falsely detected
+Frame 294-296: multiple faces falsely detected
+Frame 298-298: face falsely detected
+Frame 303-306: face not detected
+Frame 310-310: face not detected
+Frame 312-321: face not detected
+Frame 323-325: face not detected
+Frame 328-329: face not detected
+Frame 332-344: face not detected
+Frame 347-349: face not detected
+Frame 351-351: multiple faces falsely detected
+Frame 352-360: face not detected
+Frame 362-370: face not detected
+Frame 375-385: face not detected
+Frame 388-396: face not detected
+Frame 398-411: face not detected
+Frame 413-413: face not detected
+Frame 415-424: face not detected
+Frame 426-429: face not detected
+Frame 432-449: face not detected
+Frame 451-454: face not detected
+Frame 580-607: multiple faces falsely detected
+Frame 690-690: multiple faces falsely detected
+Frame 967-968: multiple faces falsely detected
+Frame 1012-1012: multiple faces falsely detected
+Frame 1090-1090: multiple faces falsely detected
+Frame 1409-1409: multiple faces not detected
+Frame 1414-1414: multiple faces not detected
+Frame 1415-1415: multiple faces not detected
+Frame 1417-1417: multiple faces not detected
+Frame 1419-1419: multiple faces not detected
+Frame 1420-1421: multiple faces not detected
+Frame 1423-1423: multiple faces not detected
+Frame 1424-1431: multiple faces not detected
+Frame 1433-1433: multiple faces not detected
+Frame 1434-1438: multiple faces not detected
+Frame 1440-1440: multiple faces not detected
+Frame 1441-1444: multiple faces not detected
+Frame 1446-1446: multiple faces not detected
+Frame 1447-1460: multiple faces not detected
+Frame 1461-1467: face not detected
+Frame 1473-1473: multiple faces falsely detected
+Frame 1482-1482: face not detected
+Frame 1488-1488: multiple faces falsely detected
+Frame 1489-1489: face not detected
+Frame 1491-1492: face not detected
+Frame 1536-1537: multiple faces falsely detected
+Frame 1539-1539: multiple faces falsely detected
+Frame 1541-1541: multiple faces falsely detected
+Frame 1562-1562: multiple faces falsely detected
+Frame 1564-1564: multiple faces falsely detected
+Frame 1565-1566: face not detected
+Frame 1568-1569: face not detected
+Frame 1570-1570: multiple faces falsely detected
+Frame 1576-1576: multiple faces falsely detected
+Frame 1579-1582: face not detected
+Frame 1585-1587: face not detected
+Frame 1589-1593: face not detected
+Frame 1595-1604: face not detected
+Frame 1639-1641: face not detected
+Frame 1645-1646: face not detected
+Frame 1650-1657: face not detected
+Frame 1683-1684: multiple faces falsely detected
+Frame 1686-1687: multiple faces falsely detected
+Frame 1724-1724: multiple faces falsely detected
+Frame 1729-1729: multiple faces falsely detected
+Frame 1757-1758: multiple faces falsely detected
+Frame 1761-1764: multiple faces falsely detected
+Frame 1864-1864: face not detected
+Frame 1866-1866: face not detected
+Frame 1868-1868: multiple faces falsely detected
+Frame 1869-1869: face not detected
+Frame 1879-1879: face not detected
+Frame 1881-1881: multiple faces falsely detected
+Frame 1882-1890: face not detected
+Frame 1893-1894: face not detected
+Frame 1898-1899: face not detected
+Frame 1900-1900: multiple faces falsely detected
+Frame 1909-1909: face not detected
+Frame 1914-1914: face not detected
+Frame 1920-1921: face not detected
+Frame 1923-1936: face not detected
+Frame 1941-1941: face not detected
+Frame 1948-1949: multiple faces falsely detected
+Frame 2002-2004: multiple faces falsely detected
+Frame 2025-2031: face not detected
+Frame 2033-2035: face not detected
+Frame 2036-2039: multiple faces falsely detected
+Frame 2043-2043: face not detected
+Frame 2049-2051: multiple faces falsely detected
+Frame 2061-2061: multiple faces falsely detected
+Frame 2063-2063: face not detected
+Frame 2064-2075: multiple faces falsely detected
+Frame 2079-2081: multiple faces falsely detected
+Frame 2117-2120: face not detected
+Frame 2122-2126: face not detected
+Frame 2129-2129: face not detected
+Frame 2131-2132: face not detected
+Frame 2225-2225: multiple faces falsely detected
+Frame 2332-2332: multiple faces not detected
+Frame 2333-2347: multiple faces not detected
+Frame 2847-2847: multiple faces not detected
+Frame 2907-2907: multiple faces not detected
+Frame 2908-2908: multiple faces not detected
+Frame 2946-2946: multiple faces not detected
+Frame 2953-2953: multiple faces not detected
+Frame 2977-2977: multiple faces not detected
+Frame 2987-2987: multiple faces not detected
+
+Mismatch in 648 out of 2987 frames.
+Accuracy: 0.7830599263475059

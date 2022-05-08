@@ -1,0 +1,142 @@
+Frame 9-10: multiple faces falsely detected
+Frame 14-15: multiple faces falsely detected
+Frame 23-25: multiple faces falsely detected
+Frame 27-28: multiple faces falsely detected
+Frame 30-30: multiple faces falsely detected
+Frame 115-138: face not detected
+Frame 300-300: multiple faces not detected
+Frame 301-637: multiple faces not detected
+Frame 685-685: multiple faces not detected
+Frame 686-804: multiple faces not detected
+Frame 806-806: multiple faces not detected
+Frame 807-1230: multiple faces not detected
+Frame 1232-1232: multiple faces not detected
+Frame 1233-1233: multiple faces not detected
+Frame 1235-1235: multiple faces not detected
+Frame 1236-1236: multiple faces not detected
+Frame 1238-1238: multiple faces not detected
+Frame 1239-1254: multiple faces not detected
+Frame 1257-1257: multiple faces not detected
+Frame 1258-1258: multiple faces not detected
+Frame 1260-1260: multiple faces not detected
+Frame 1261-1273: multiple faces not detected
+Frame 1275-1275: multiple faces not detected
+Frame 1276-1331: multiple faces not detected
+Frame 1333-1333: multiple faces not detected
+Frame 1334-1362: multiple faces not detected
+Frame 1364-1364: multiple faces not detected
+Frame 1365-1392: multiple faces not detected
+Frame 1395-1395: multiple faces not detected
+Frame 1396-1408: multiple faces not detected
+Frame 1411-1411: multiple faces not detected
+Frame 1412-1539: multiple faces not detected
+Frame 1550-1550: face falsely detected
+Frame 1910-1910: multiple faces not detected
+Frame 1911-1915: multiple faces not detected
+Frame 1917-1917: multiple faces not detected
+Frame 1918-1939: multiple faces not detected
+Frame 2132-2132: multiple faces not detected
+Frame 2133-2134: multiple faces not detected
+Frame 2136-2136: multiple faces not detected
+Frame 2137-2140: multiple faces not detected
+Frame 2142-2142: multiple faces not detected
+Frame 2143-2199: multiple faces not detected
+Frame 2201-2201: multiple faces not detected
+Frame 2202-2212: multiple faces not detected
+Frame 2221-2221: multiple faces not detected
+Frame 2222-2307: multiple faces not detected
+Frame 2339-2339: face falsely detected
+Frame 2349-2350: face falsely detected
+Frame 2355-2355: face falsely detected
+Frame 2360-2360: multiple faces falsely detected
+Frame 2362-2362: multiple faces falsely detected
+Frame 2372-2372: multiple faces falsely detected
+Frame 2377-2381: multiple faces falsely detected
+Frame 2385-2385: multiple faces falsely detected
+Frame 2387-2388: multiple faces falsely detected
+Frame 2391-2391: multiple faces falsely detected
+Frame 2401-2401: multiple faces falsely detected
+Frame 2407-2407: multiple faces falsely detected
+Frame 2409-2410: multiple faces falsely detected
+Frame 2412-2412: multiple faces falsely detected
+Frame 2417-2420: multiple faces falsely detected
+Frame 2422-2422: multiple faces falsely detected
+Frame 2426-2426: multiple faces not detected
+Frame 2427-2429: multiple faces not detected
+Frame 2431-2431: multiple faces not detected
+Frame 2432-2432: multiple faces not detected
+Frame 2435-2435: multiple faces not detected
+Frame 2436-2437: multiple faces not detected
+Frame 2442-2442: multiple faces not detected
+Frame 2444-2444: multiple faces not detected
+Frame 2446-2446: multiple faces not detected
+Frame 2447-2447: multiple faces not detected
+Frame 2450-2450: multiple faces not detected
+Frame 2454-2454: multiple faces not detected
+Frame 2457-2457: multiple faces not detected
+Frame 2468-2468: multiple faces not detected
+Frame 2471-2471: multiple faces not detected
+Frame 2472-2473: multiple faces not detected
+Frame 2476-2476: multiple faces not detected
+Frame 2477-2479: multiple faces not detected
+Frame 2481-2481: multiple faces not detected
+Frame 2491-2491: multiple faces not detected
+Frame 2492-2494: multiple faces not detected
+Frame 2507-2509: face not detected
+Frame 2511-2512: face not detected
+Frame 2514-2514: face not detected
+Frame 2516-2516: face not detected
+Frame 2517-2517: multiple faces falsely detected
+Frame 2519-2536: face not detected
+Frame 2538-2538: face not detected
+Frame 2586-2586: multiple faces not detected
+Frame 2587-2588: multiple faces not detected
+Frame 2597-2597: multiple faces not detected
+Frame 2598-2604: multiple faces not detected
+Frame 2607-2608: multiple faces falsely detected
+Frame 2611-2613: multiple faces falsely detected
+Frame 2616-2618: multiple faces falsely detected
+Frame 2621-2622: multiple faces falsely detected
+Frame 2624-2628: multiple faces falsely detected
+Frame 2630-2635: multiple faces falsely detected
+Frame 2637-2640: multiple faces falsely detected
+Frame 2642-2646: multiple faces falsely detected
+Frame 2648-2655: multiple faces falsely detected
+Frame 2657-2657: multiple faces not detected
+Frame 2658-2668: multiple faces not detected
+Frame 2670-2670: multiple faces not detected
+Frame 2671-2679: multiple faces not detected
+Frame 2684-2684: multiple faces not detected
+Frame 2685-2689: multiple faces not detected
+Frame 2692-2692: multiple faces not detected
+Frame 2693-2708: multiple faces not detected
+Frame 2711-2711: multiple faces not detected
+Frame 2712-2729: multiple faces not detected
+Frame 2732-2732: multiple faces not detected
+Frame 2733-2734: multiple faces not detected
+Frame 2736-2736: multiple faces not detected
+Frame 2737-2739: multiple faces not detected
+Frame 2742-2742: multiple faces not detected
+Frame 2743-2864: multiple faces not detected
+Frame 2866-2866: multiple faces not detected
+Frame 2867-2870: multiple faces not detected
+Frame 2872-2872: multiple faces not detected
+Frame 2873-2909: multiple faces not detected
+Frame 2952-2952: multiple faces falsely detected
+Frame 3002-3004: multiple faces falsely detected
+Frame 3022-3022: multiple faces falsely detected
+Frame 3027-3030: multiple faces falsely detected
+Frame 3034-3035: multiple faces falsely detected
+Frame 3044-3044: multiple faces falsely detected
+Frame 3055-3056: multiple faces falsely detected
+Frame 3058-3058: multiple faces falsely detected
+Frame 3063-3063: multiple faces falsely detected
+Frame 3075-3079: multiple faces falsely detected
+Frame 3081-3081: multiple faces falsely detected
+Frame 3083-3084: multiple faces falsely detected
+Frame 3097-3098: multiple faces falsely detected
+Frame 3108-3108: multiple faces falsely detected
+Frame 3166-3170: multiple faces falsely detected
+
+Mismatch in 1808 out of 3189 frames.
+Accuracy: 0.4330511132016306

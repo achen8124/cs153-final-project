@@ -38,5 +38,14 @@ ffmpeg -framerate 24 -i myclip_%05d.jpg .path/to/where/i/want/video/myclip.mp4
 
 
 ## Example output
-See the `detector_outputs` and `video_clips` directories for examples of running the two face detectors on the videos from the Gaze Dataset. While the detectors have been run on all of the clips, there are only a few example videos due to space/memory considerations.
+See the `detector_outputs` and `video_clips` directories for examples of running the two face detectors on the videos from the Gaze Dataset. While the detectors have been run on all of the clips, there are only a few example videos due to space/memory considerations. Similarly, the directory that would contain bounding boxes drawn over the frames, `output_frames`, has been omitted due to space/memory considerations. 
+
+### Contents of `detector_outputs`
+Each subdirectory corresponds to a different movie clip from the Gaze Dataset. Within each subdirectory, you will find 5 files. If the name of the clip was `myclip`, you would find:
+
+1. `myclip_dnn_output.txt`: the output coding dictionary from running OpenCV's DNN face detector on the clip
+2. `myclip_mtcnn_output.txt`: the output coding dictionary from running the MTCNN face detector on the clip 
+3. `myclip_hc.txt`: the hand coding dictionary corresponding to the film clip from the Gaze Dataset
+4. `compared_myclip_dnn.txt`: a comparison of the OpenCV face detector's coding against the hand coding 
+5. `myclip_mtcnn_output.txt`: a comparison of the MTCNN face detector's coding against the hand coding
 

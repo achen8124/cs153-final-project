@@ -1,0 +1,23 @@
+Frame 1-105: face not detected
+Frame 107-135: face not detected
+Frame 137-137: face not detected
+Frame 141-157: face not detected
+Frame 159-160: face not detected
+Frame 162-167: face not detected
+Frame 173-173: multiple faces falsely detected
+Frame 185-185: face not detected
+Frame 187-212: face not detected
+Frame 221-259: face not detected
+Frame 265-284: face not detected
+Frame 293-316: face not detected
+Frame 765-765: multiple faces not detected
+Frame 766-825: multiple faces not detected
+Frame 829-829: multiple faces not detected
+Frame 830-835: multiple faces not detected
+Frame 837-837: multiple faces not detected
+Frame 838-879: multiple faces not detected
+Frame 881-881: multiple faces not detected
+Frame 882-882: multiple faces not detected
+
+Mismatch in 385 out of 1345 frames.
+Accuracy: 0.7137546468401487
