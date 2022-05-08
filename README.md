@@ -3,12 +3,16 @@ Code to detect faces using the [OpenCV Face Detector](https://github.com/opencv/
 
 ## Usage
 You can install the package dependencies for this project with the following command: 
-```pip install -r requirements.txt``` 
+``
+pip install -r requirements.txt
+``` 
 
 ### Extracting frames from a video clip
 Before using either of the face detectors on a video clip, extract the frames and place them in the directory of your choice. One tool to extract the frames of the video is `ffmpeg`, which is included in the dependencies mentioned above. To extract the frames from a video named `myclip.mp4`, you would run the following command:
 
-```ffmpeg -i myclip.mp4 'path/to/where/i/want/frames/myclip_%05d.jpg'```
+```
+ffmpeg -i myclip.mp4 'path/to/where/i/want/frames/myclip_%05d.jpg'
+```
 
 The `%05d` and `.jpg` can be changed to have more/less zero padding for the index and a different file format if desired. 
 
@@ -27,7 +31,9 @@ Note that text files containing the hand coding for the frames must come in the 
 ### Converting a sequence of images back to a video
 After drawing bounding boxes around the detected faces, you can use `ffmpeg` to convert images back to a video with the following command:
 
-```ffmpeg -framerate 24 -i myclip_%05d.jpg .path/to/where/i/want/video/myclip.mp4```
+```
+ffmpeg -framerate 24 -i myclip_%05d.jpg .path/to/where/i/want/video/myclip.mp4
+```
 
 
 ## Example output
