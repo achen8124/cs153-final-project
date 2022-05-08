@@ -3,7 +3,8 @@ Code to detect faces using the [OpenCV Face Detector](https://github.com/opencv/
 
 ## Usage
 You can install the package dependencies for this project with the following command: 
-``
+
+```
 pip install -r requirements.txt
 ``` 
 
