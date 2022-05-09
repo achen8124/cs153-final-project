@@ -155,15 +155,3 @@ def write_and_reset(file, list, message):
         for interval in list:
             f.write(f"Frame {interval[0]}-{interval[1]}: {message}\n")
     return []
-
-
-# cmp_dict_files('ncc2_half.txt', 'country2.txt', 'compare.txt')
-# with open('sc1_hc.txt', 'w') as file:
-#    file.write(json.dumps(read_coding_file('hand_coding/shakespeare_clip1_hcode.txt')))
-# a = 'sc2'
-# cmp_dict_files(f'{a}_output/{a}_dnn_output.txt', f'{a}_output/{a}_hc.txt', f'{a}_output/compared_{a}_dnn.txt')
-# cmp_dict_files(f'{a}_output/{a}_mtcnn_output.txt', f'{a}_output/{a}_hc.txt', f'{a}_output/compared_{a}_mtcnn.txt')
-
-# a = 'sc1'
-# cmp_dict_files(f'{a}_output/{a}_dnn_output.txt', f'{a}_output/{a}_hc.txt', f'{a}_output/compared_{a}_dnn.txt')
-# cmp_dict_files(f'{a}_output/{a}_mtcnn_output.txt', f'{a}_output/{a}_hc.txt', f'{a}_output/compared_{a}_mtcnn.txt')
